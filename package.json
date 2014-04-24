@@ -1,0 +1,32 @@
+{
+  "name": "fuck-you",
+  "version": "1.1.2",
+  "description": " (╯°□°）╯︵sǝssǝɔoɹd oʎ llɐ llıʞǝɓɐɹ",
+  "main": "index.js",
+  "bin": {
+    "fuck": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robotlolita/fuck-you.git"
+  },
+  "keywords": [
+    "kill",
+    "processes"
+  ],
+  "author": "Quildreen Motta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robotlolita/fuck-you/issues"
+  },
+  "homepage": "https://github.com/robotlolita/fuck-you",
+  "dependencies": {
+    "core.lambda": "~0.2.1",
+    "control.monads": "~0.3.1",
+    "data.future": ">=2.0.0 <3.0.0",
+    "data.maybe": ">=1.0.0 <2.0.0"
+  }
+}
